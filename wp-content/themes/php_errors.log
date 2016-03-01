@@ -1,0 +1,6 @@
+[30-Jul-2015 20:52:00 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/midnight-pulp/index.php on line 1
+[30-Jul-2015 20:52:00 UTC] PHP Stack trace:
+[30-Jul-2015 20:52:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/midnight-pulp/index.php:0
+[30-Jul-2015 20:52:33 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/midnight-pulp/index.php on line 1
+[30-Jul-2015 20:52:33 UTC] PHP Stack trace:
+[30-Jul-2015 20:52:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/midnight-pulp/index.php:0
